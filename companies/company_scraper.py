@@ -6,7 +6,7 @@ from urls import BASE_URL, metric_endpoints
 from columns import columns
 
 
-PAGE_COUNT = 2 # will fetch (count-1)*100 companies
+PAGE_COUNT = 3 # will fetch (count-1)*100 companies
 
 
 # scrape and fetch the companies
@@ -25,12 +25,12 @@ def fetch_companies(industry_seg, industry_subseg, label):
         driver.quit()
 
         # fetch all metrics for the companies
-        for company in fetched_companies[0:1]:
+        for idx, company in enumerate(fetched_companies):
             for metric in metric_endpoints:
                 driver = webdriver.Chrome()
                 driver.get(f"{company.get(columns[1])}/{metric}")
 
-                print(f"======[START] Fetching {company.get(columns[0])}'s {metric}")
+                print(f"======[START] Fetching {idx}-{company.get(columns[0])}'s {metric}")
                 try: 
                     company[metric] = driver.find_element(By.CLASS_NAME, "background-ya").text
                 except NoSuchElementException:
