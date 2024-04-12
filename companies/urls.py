@@ -1,12 +1,5 @@
 BASE_URL = "https://companiesmarketcap.com" # base url
 
-# tech endpoint
-TECH_ENDPOINT = f"{BASE_URL}/tech/largest-tech-companies-by-number-of-employees/"
-# pharma endpoint
-PHARMA_ENDPOINT = f"{BASE_URL}/pharmaceuticals/largest-pharmaceutical-companies-by-number-of-employees/"
-# real estate endpoint
-REAL_ESTATE_ENDPOINT = f"{BASE_URL}/real-estate/largest-real-estate-companies-by-number-of-employees/"
-
 metric_endpoints = [
     "marketcap",
     "revenue",

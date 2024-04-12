@@ -1,16 +1,20 @@
 import pandas as pd
 from columns import columns
-from tech_scraper import fetch_tech_companies
-from pharma_scraper import fetch_pharma_companies
-from real_estate_scraper import fetch_real_estate_companies
+from company_scraper import fetch_companies
 
 
 companies = [] # all company data
 
 
 if __name__ == "__main__":
-    companies.extend(fetch_tech_companies())
-    companies.extend(fetch_pharma_companies())
-    companies.extend(fetch_real_estate_companies())
+    # fetch companies by industry
+    # companies.extend(fetch_companies("tech", "tech", "Technology"))
+    # companies.extend(fetch_companies("pharmaceuticals", "pharmaceutical", "Pharmaceuticals"))
+    # companies.extend(fetch_companies("real-estate", "real-estate", "Real Estate"))
+    # companies.extend(fetch_companies("oil-gas", "oil-and-gas", "Oil&Gas"))
+    companies.extend(fetch_companies("retail", "retail", "Retail"))
+    companies.extend(fetch_companies("insurance", "insurance", "Insurance"))
+    companies.extend(fetch_companies("food", "food", "Food"))
+    # convert pandas to csv and save
     df = pd.DataFrame(data=companies, columns=columns)
-    df.to_csv("companies_data.csv", index=False)
+    df.to_csv("companies/companies_data.csv", index=False)
