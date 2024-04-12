@@ -1,9 +1,10 @@
+# table headers / table columns
 columns = [
     "Company",
     "Company Path",
     "Industry",
     "Country",
-    "Employees",
+    "employees",
     "marketcap",
     "revenue",
     "earnings",
