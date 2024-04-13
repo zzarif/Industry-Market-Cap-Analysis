@@ -4,6 +4,7 @@ from selenium.common.exceptions import NoSuchElementException
 from html_row_to_dict import get_dict_from_html_row
 from urls import BASE_URL, metric_endpoints
 from columns import columns
+import time
 
 
 PAGE_COUNT = 3 # will fetch (count-1)*100 companies
@@ -11,6 +12,7 @@ PAGE_COUNT = 3 # will fetch (count-1)*100 companies
 
 # scrape and fetch the companies
 def fetch_companies(industry_seg, industry_subseg, label):
+    start = time.time()
     for page_id in range(1,PAGE_COUNT):
         driver = webdriver.Chrome()
         driver.get(f"{BASE_URL}/{industry_seg}/largest-{industry_subseg}-companies-by-number-of-employees/?page={page_id}")
@@ -39,4 +41,5 @@ def fetch_companies(industry_seg, industry_subseg, label):
                 print("======[END]")
                 driver.quit()
 
+        print(f"Time taken: {time.time() - start}")
         return fetched_companies
