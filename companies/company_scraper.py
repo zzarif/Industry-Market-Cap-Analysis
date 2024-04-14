@@ -7,13 +7,10 @@ from columns import columns
 import time
 
 
-PAGE_COUNT = 3 # will fetch (count-1)*100 companies
-
-
 # scrape and fetch the companies
-def fetch_companies(industry_seg, industry_subseg, label):
+def fetch_companies(industry_seg, industry_subseg, label, page, max_page=2):
     start = time.time()
-    for page_id in range(1,PAGE_COUNT):
+    for page_id in range(page, max_page+1):
         driver = webdriver.Chrome()
         driver.get(f"{BASE_URL}/{industry_seg}/largest-{industry_subseg}-companies-by-number-of-employees/?page={page_id}")
 
