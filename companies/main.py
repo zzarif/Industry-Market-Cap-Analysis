@@ -15,6 +15,7 @@ if __name__ == "__main__":
     # companies.extend(fetch_companies("retail", "retail", "Retail", 1, 2))
     # companies.extend(fetch_companies("insurance", "insurance", "Insurance", 1, 2))
     # companies.extend(fetch_companies("food", "food", "Food", 1, 2))
+    # companies.extend(fetch_companies("electricity", "electricity", "Electricity", 1, 2))
     # convert pandas to csv and save
     df = pd.DataFrame(data=companies, columns=columns)
     df.to_csv("companies/companies_data.csv", index=False)
