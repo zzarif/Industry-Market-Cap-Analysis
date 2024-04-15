@@ -11,18 +11,3 @@ def get_dict_from_html_row(row, industry):
     contents[columns[3]] = row.find_element(By.CLASS_NAME, "responsive-hidden").text # country
     contents[columns[4]] = row.find_elements(By.CLASS_NAME, "td-right")[1].get_attribute("data-sort") # employees
     return contents
-
-
-# convert string to numbers (decimal)
-def get_number_from_string(value):
-    value = value.replace("$", "").strip() # remove $ if present
-    if value.endswith("Trillion") or value.endswith("T"):
-        return float(value.split(" ")[0]) * 1e12
-    elif value.endswith("Billion") or value.endswith("B"):
-        return float(value.split(" ")[0]) * 1e9
-    elif value.endswith("Million") or value.endswith("M"):
-        return float(value.split(" ")[0]) * 1e6
-    elif value.endswith("%"):
-        return float(value[:-1]) / 100
-    else:
-        return float(value)

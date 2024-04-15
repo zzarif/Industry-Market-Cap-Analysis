@@ -1,14 +1,14 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-from convert_data import get_dict_from_html_row, get_number_from_string
+from html_row_to_dict import get_dict_from_html_row
 from urls import BASE_URL, metric_endpoints
 from columns import columns
 import time
 
 
 # scrape and fetch the companies
-def fetch_companies(industry_seg, industry_subseg, label, page, max_page=2):
+def fetch_companies(industry_seg, industry_subseg, label, page=1, max_page=2):
     start = time.time()
     fetched_companies = [] # list containing all companies
 
@@ -39,7 +39,7 @@ def fetch_companies(industry_seg, industry_subseg, label, page, max_page=2):
 
                 print(f"======[START] Fetching {idx}-{company.get(columns[0])}'s {metric}")
                 try: 
-                    company[metric] = get_number_from_string(driver.find_element(By.CLASS_NAME, "background-ya").text)
+                    company[metric] = driver.find_element(By.CLASS_NAME, "background-ya").text
                 except NoSuchElementException:
                     company[metric] = ""
 
