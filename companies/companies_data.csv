@@ -35,7 +35,7 @@ Fidelity National Information Services,https://companiesmarketcap.com/fidelity-n
 Meta Platforms (Facebook),https://companiesmarketcap.com/meta-platforms,Technology,USA,66185,$1.333 Trillion,$134.90 B,$47.87 B,23.79%,$229.62 B,$76.45 B,$37.23 B,$153.16 B,45.5,9.89
 Sea (Garena),https://companiesmarketcap.com/sea,Technology,Singapore,63800,$31.67 Billion,$12.89 B,$0.82 B,-4.83%,$18.02 B,$11.44 B,$4.61 B,$6.57 B,117,2.46
 Automatic Data Processing,https://companiesmarketcap.com/automatic-data-processing,Technology,USA,63000,$100.40 Billion,$17.67 B,$4.60 B,25.80%,$57.06 B,$52.74 B,$3.31 B,$4.31 B,28.9,5.68
-Coupang,https://companiesmarketcap.com/coupang,Technology,S. Korea,63000,$34.18 Billion,$24.38 B,$0.63 B,2.36%,$13.34 B,$9.25 B,$2.78 B,$4.08 B,79.4,1.40
+Coupang,https://companiesmarketcap.com/coupang,Technology,South Korea,63000,$34.18 Billion,$24.38 B,$0.63 B,2.36%,$13.34 B,$9.25 B,$2.78 B,$4.08 B,79.4,1.40
 Hewlett Packard Enterprise,https://companiesmarketcap.com/hewlett-packard-enterprise,Technology,USA,60200,$23.31 Billion,$28.08 B,$2.09 B,4.22%,$58.60 B,$37.13 B,$12.79 B,$21.46 B,21.4,0.8304
 Conduent,https://companiesmarketcap.com/conduent,Technology,USA,59000,$0.69 Billion,$3.72 B,-$0.34 B,-9.04%,$3.16 B,$2.52 B,$1.49 B,$0.63 B,-1.11,0.1867
 Infineon,https://companiesmarketcap.com/infineon,Technology,Germany,58590,$45.30 Billion,$17.41 B,$4.15 B,24.74%,$31.36 B,$12.31 B,$6.38 B,$19.05 B,14.0,2.64
@@ -55,7 +55,7 @@ ASML,https://companiesmarketcap.com/asml,Technology,Netherlands,39850,$391.61 Bi
 NXP Semiconductors,https://companiesmarketcap.com/nxp-semiconductors,Technology,Netherlands,34500,$62.66 Billion,$13.27 B,$3.79 B,28.71%,$24.35 B,$15.39 B,$11.17 B,$8.96 B,22.9,4.72
 Applied Materials,https://companiesmarketcap.com/applied-materials,Technology,USA,34300,$176.96 Billion,$26.48 B,$8.36 B,29.47%,$31.54 B,$14.11 B,$5.98 B,$17.42 B,28.0,6.68
 Sanmina,https://companiesmarketcap.com/sanmina,Technology,USA,34000,$3.30 Billion,$8.45 B,$0.41 B,4.06%,$4.61 B,$2.34 B,$0.32 B,$2.27 B,11.0,0.3905
-LG Electronics,https://companiesmarketcap.com/lg-electronics,Technology,S. Korea,33716,$11.59 Billion,$64.04 B,$1.85 B,7.15%,$46.57 B,$28.40 B,$11.22 B,$18.16 B,42.8,0.1880
+LG Electronics,https://companiesmarketcap.com/lg-electronics,Technology,South Korea,33716,$11.59 Billion,$64.04 B,$1.85 B,7.15%,$46.57 B,$28.40 B,$11.22 B,$18.16 B,42.8,0.1880
 Seagate Technology,https://companiesmarketcap.com/seagate,Technology,Ireland,33400,$18.60 Billion,$6.47 B,-$0.64 B,-6.71%,$7.14 B,$8.96 B,$5.66 B,-$1.82 B,-24.9,2.87
 Xiaomi,https://companiesmarketcap.com/xiaomi,Technology,China,33038,$50.73 Billion,$37.41 B,$3.16 B,4.65%,$42.12 B,$19.77 B,$3.46 B,$22.34 B,36.7,1.36
 Texas Instruments,https://companiesmarketcap.com/texas-instruments,Technology,USA,33000,$155.80 Billion,$17.51 B,$7.77 B,50.08%,$32.34 B,$15.45 B,$11.22 B,$16.89 B,21.9,8.89
@@ -306,7 +306,7 @@ Surgutneftegas,https://companiesmarketcap.com/surgutneftegas,Oil&Gas,Russia,1130
 TotalEnergies,https://companiesmarketcap.com/totalenergies,Oil&Gas,France,101279,$170.75 Billion,$218.94 B,$36.96 B,16.43%,$290.00 B,$171.58 B,$57.89 B,$118.42 B,9.25,0.7738
 Schlumberger,https://companiesmarketcap.com/schlumberger,Oil&Gas,USA,99000,$74.41 Billion,$33.13 B,$5.78 B,15.20%,$47.95 B,$26.59 B,$11.96 B,$21.35 B,18.5,2.33
 Shell,https://companiesmarketcap.com/shell,Oil&Gas,UK,91140,$232.54 Billion,$316.61 B,$32.62 B,13.26%,$406.27 B,$217.90 B,$81.54 B,$188.36 B,8.55,0.7366
-Saudi Aramco,https://companiesmarketcap.com/saudi-aramco,Oil&Gas,S. Arabia,70000,$1.955 Trillion,$495.34 B,$236.96 B,49.37%,$661.58 B,$197.79 B,$77.46 B,$463.78 B,14.7,3.95
+Saudi Aramco,https://companiesmarketcap.com/saudi-aramco,Oil&Gas,Saudi Arabia,70000,$1.955 Trillion,$495.34 B,$236.96 B,49.37%,$661.58 B,$197.79 B,$77.46 B,$463.78 B,14.7,3.95
 BP,https://companiesmarketcap.com/bp,Oil&Gas,UK,67600,$110.69 Billion,$210.13 B,$27.62 B,6.38%,$280.29 B,$194.80 B,$63.07 B,$85.49 B,4.59,0.5302
 PKN Orlen,https://companiesmarketcap.com/pkn-orlen,Oil&Gas,Poland,64494,$19.58 Billion,$84.47 B,$10.06 B,15.06%,$58.53 B,$23.67 B,$5.27 B,$34.86 B,2.72,0.2359
 Exxon Mobil,https://companiesmarketcap.com/exxon-mobil,Oil&Gas,USA,62000,$474.23 Billion,$334.69 B,$52.78 B,19.97%,$376.31 B,$163.77 B,$41.57 B,$212.53 B,12.1,1.44
@@ -362,7 +362,7 @@ Iren,https://companiesmarketcap.com/iren,Oil&Gas,Italy,10000,$2.40 Billion,$7.16
 ConocoPhillips,https://companiesmarketcap.com/conocophillips,Oil&Gas,USA,9800,$153.64 Billion,$56.14 B,$16.28 B,30.86%,$95.92 B,$46.64 B,$18.93 B,$49.27 B,14.5,2.77
 Valero Energy,https://companiesmarketcap.com/valero,Oil&Gas,USA,9716,$57.17 Billion,$144.76 B,$12.36 B,8.67%,$63.05 B,$34.53 B,$12.63 B,$28.52 B,6.03,0.4029
 Ampol,https://companiesmarketcap.com/ampol,Oil&Gas,Australia,9200,$6.05 Billion,$25.68 B,$0.65 B,2.74%,$8.71 B,$6.01 B,$2.51 B,$2.70 B,17.4,0.2285
-Aldrees Petroleum and Transport Services,https://companiesmarketcap.com/aldrees-petroleum-and-transport-services,Oil&Gas,S. Arabia,9199,$3.38 Billion,$3.95 B,$0.11 B,,$2.00 B,$1.67 B,$1.11 B,$0.32 B,47.0,0.8542
+Aldrees Petroleum and Transport Services,https://companiesmarketcap.com/aldrees-petroleum-and-transport-services,Oil&Gas,Saudi Arabia,9199,$3.38 Billion,$3.95 B,$0.11 B,,$2.00 B,$1.67 B,$1.11 B,$0.32 B,47.0,0.8542
 Hindustan Petroleum,https://companiesmarketcap.com/hindustan-petroleum,Oil&Gas,India,9065,$8.12 Billion,$51.52 B,$2.96 B,3.05%,$21.38 B,$15.95 B,$6.98 B,$5.42 B,8.19,0.1611
 Bharat Petroleum,https://companiesmarketcap.com/bharat-petroleum,Oil&Gas,India,8594,$15.57 Billion,$53.59 B,$4.65 B,5.25%,$25.41 B,$16.86 B,$6.78 B,$8.54 B,4.63,0.2929
 Expro Group,https://companiesmarketcap.com/expro-group,Oil&Gas,USA,7800,$2.15 Billion,$1.51 B,$24.89 M,3.64%,$2.01 B,$0.71 B,$0.11 B,$1.29 B,> 1000,1.50
@@ -383,7 +383,7 @@ National Energy Services Reunited,https://companiesmarketcap.com/national-energy
 Romgaz,https://companiesmarketcap.com/romgaz,Oil&Gas,Romania,5944,$4.41 Billion,$2.03 B,$1.20 B,,$3.23 B,$0.90 B,$0.26 B,$2.33 B,10.9,2.17
 Edison,https://companiesmarketcap.com/edison,Oil&Gas,Italy,5818,$7.96 Billion,$20.00 B,$0.84 B,1.86%,$15.06 B,$7.44 B,$1.15 B,$7.62 B,55.2,0.4016
 Imperial Oil,https://companiesmarketcap.com/imperial-oil,Oil&Gas,Canada,5300,$37.47 Billion,$36.04 B,$4.79 B,16.57%,$31.11 B,$14.33 B,$3.27 B,$16.78 B,10.8,1.07
-ADES Holding Company,https://companiesmarketcap.com/ades-holding-company,Oil&Gas,S. Arabia,5275,$5.51 Billion,$1.15 B,$0.34 B,,$5.18 B,$3.64 B,$2.93 B,$1.54 B,,
+ADES Holding Company,https://companiesmarketcap.com/ades-holding-company,Oil&Gas,Saudi Arabia,5275,$5.51 Billion,$1.15 B,$0.34 B,,$5.18 B,$3.64 B,$2.93 B,$1.54 B,,
 HF Sinclair,https://companiesmarketcap.com/hf-sinclair,Oil&Gas,USA,5223,$11.82 Billion,$31.96 B,$2.34 B,10.30%,$17.71 B,$7.47 B,$3.09 B,$10.23 B,5.27,0.3786
 UGI Corporation,https://companiesmarketcap.com/ugi-corporation,Oil&Gas,USA,5160,$4.91 Billion,$8.29 B,-$7 M,2.02%,$15.71 B,$11.28 B,$7.38 B,$4.43 B,-3.63,0.6069
 Williams Companies,https://companiesmarketcap.com/williams-companies,Oil&Gas,USA,5043,$46.39 Billion,$10.90 B,$5.64 B,23.18%,$52.62 B,$37.73 B,$26.46 B,$14.89 B,17.3,4.31
@@ -393,7 +393,7 @@ Precision Drilling Corporation,https://companiesmarketcap.com/precision-drilling
 GAIL,https://companiesmarketcap.com/gail,Oil&Gas,India,4754,$15.83 Billion,$16.47 B,$1.10 B,5.23%,$13.99 B,$5.19 B,$2.16 B,$8.79 B,27.4,0.9684
 Liberty Energy,https://companiesmarketcap.com/liberty-oilfield-services,Oil&Gas,USA,4580,$3.73 Billion,$4.74 B,$0.73 B,14.69%,$3.03 B,$1.19 B,$0.40 B,$1.84 B,6.41,0.7892
 Woodside Energy,https://companiesmarketcap.com/woodside-energy,Oil&Gas,Australia,4427,$36.86 Billion,$13.99 B,$3.27 B,54.55%,$55.36 B,$20.19 B,$6.49 B,$35.17 B,5.63,2.92
-Korea Gas,https://companiesmarketcap.com/korea-gas,Oil&Gas,S. Korea,4251,$1.60 Billion,$34.00 B,$0.61 B,5.62%,$41.78 B,$34.05 B,$30.39 B,$7.73 B,2.90,0.0476
+Korea Gas,https://companiesmarketcap.com/korea-gas,Oil&Gas,South Korea,4251,$1.60 Billion,$34.00 B,$0.61 B,5.62%,$41.78 B,$34.05 B,$30.39 B,$7.73 B,2.90,0.0476
 Plains All American Pipeline,https://companiesmarketcap.com/plains-all-american-pipeline,Oil&Gas,USA,4100,$12.44 Billion,$48.71 B,$2.00 B,2.47%,$27.35 B,$13.62 B,$8.02 B,$13.73 B,11.1,0.2588
 Valaris,https://companiesmarketcap.com/valaris,Oil&Gas,UK,3933,$5.12 Billion,$1.78 B,$84.2 M,8.77%,$4.32 B,$2.32 B,$1.15 B,$1.99 B,44.2,2.89
 Noble Corporation,https://companiesmarketcap.com/noble-corp,Oil&Gas,UK,3800,$6.96 Billion,$2.58 B,$0.51 B,16.06%,$5.50 B,$1.58 B,$0.58 B,$3.92 B,14.5,2.76
@@ -449,7 +449,7 @@ AutoZone,https://companiesmarketcap.com/autozone,Retail,USA,71400,$51.25 Billion
 Assaí Atacadista,https://companiesmarketcap.com/assai-atacadista,Retail,Brazil,70000,$3.75 Billion,$12.64 B,$0.59 B,5.47%,$8.19 B,$7.34 B,$4.56 B,$0.85 B,23.6,0.2991
 Dollar Tree,https://companiesmarketcap.com/dollar-tree,Retail,USA,65025,$27.28 Billion,$30.60 B,-$0.89 B,6.69%,$22.02 B,$14.71 B,$10.38 B,$7.31 B,23.6,0.9277
 Marks & Spencer,https://companiesmarketcap.com/marks-and-spencer,Retail,UK,64000,$6.48 Billion,$14.77 B,$0.58 B,,$10.69 B,$7.22 B,$4.01 B,$3.47 B,9.50,0.2713
-Coupang,https://companiesmarketcap.com/coupang,Retail,S. Korea,63000,$37.89 Billion,$24.38 B,$0.63 B,2.36%,$13.34 B,$9.25 B,$2.78 B,$4.08 B,79.4,1.40
+Coupang,https://companiesmarketcap.com/coupang,Retail,South Korea,63000,$37.89 Billion,$24.38 B,$0.63 B,2.36%,$13.34 B,$9.25 B,$2.78 B,$4.08 B,79.4,1.40
 Nordstrom,https://companiesmarketcap.com/nordstrom,Retail,USA,60000,$3.11 Billion,$14.69 B,$0.28 B,2.16%,$8.44 B,$7.59 B,$4.47 B,$0.84 B,99.0,0.2200
 Fast Retailing,https://companiesmarketcap.com/fast-retailing,Retail,Japan,59871,$84.37 Billion,$20.12 B,$3.32 B,15.80%,$23.36 B,$10.19 B,$3.17 B,$13.16 B,44.6,4.39
 RaiaDrogasil,https://companiesmarketcap.com/raiadrogasil,Retail,Brazil,57295,$8.82 Billion,$6.85 B,$0.38 B,4.76%,$4.14 B,$2.89 B,$1.45 B,$1.24 B,41.1,1.29
@@ -639,7 +639,7 @@ Delivery Hero,https://companiesmarketcap.com/delivery-hero,Food,Germany,47208,$8
 SSP Group,https://companiesmarketcap.com/ssp-group,Food,UK,42000,$2.04 Billion,$3.66 B,$0.10 B,,$3.53 B,$3.14 B,$2.10 B,$0.39 B,-168,0.6131
 Want Want China,https://companiesmarketcap.com/want-want-china,Food,Hong Kong,41229,$6.75 Billion,$2.10 B,$0.46 B,,$3.81 B,$1.80 B,$1.09 B,$2.01 B,92.8,2.31
 Archer Daniels Midland (ADM),https://companiesmarketcap.com/archer-daniels-midland,Food,USA,40360,$30.59 Billion,$93.93 B,$4.94 B,5.13%,$54.63 B,$30.16 B,$9.59 B,$24.46 B,8.67,0.3396
-Almarai,https://companiesmarketcap.com/almarai,Food,S. Arabia,38370,$15.13 Billion,$5.22 B,$0.57 B,10.81%,$9.66 B,$4.90 B,$3.33 B,$4.75 B,27.6,2.90
+Almarai,https://companiesmarketcap.com/almarai,Food,Saudi Arabia,38370,$15.13 Billion,$5.22 B,$0.57 B,10.81%,$9.66 B,$4.90 B,$3.33 B,$4.75 B,27.6,2.90
 Bachoco,https://companiesmarketcap.com/bachoco,Food,Mexico,38344,$3.06 Billion,$5.26 B,$0.26 B,8.12%,$4.48 B,$1.32 B,$0.37 B,$3.16 B,10.1,0.5884
 Dole PLC,https://companiesmarketcap.com/dole,Food,Ireland,37422,$1.10 Billion,$8.24 B,$0.28 B,1.43%,$4.53 B,$3.14 B,$1.45 B,$1.39 B,10.6,0.1332
 Kraft Heinz,https://companiesmarketcap.com/kraft-heinz,Food,USA,37000,$44.44 Billion,$26.64 B,$3.63 B,14.09%,$90.33 B,$40.61 B,$20.03 B,$49.72 B,15.1,1.67
@@ -854,7 +854,7 @@ Alvotech,https://companiesmarketcap.com/alvotech,Pharmaceuticals,Iceland,917,$3.
 Curevac,https://companiesmarketcap.com/curevac,Pharmaceuticals,Germany,904,$0.65 Billion,$45.94 M,-$0.33 B,-587.24%,$0.89 B,$0.25 B,$44.49 M,$0.63 B,-1.86,14.4
 Roivant Sciences,https://companiesmarketcap.com/roivant-sciences,Pharmaceuticals,UK,904,$9.00 Billion,$0.12 B,$4.30 B,"-1,800.85%",$7.31 B,$0.72 B,$0.50 B,$6.58 B,-8.34,73.0
 Argenx,https://companiesmarketcap.com/argenx,Pharmaceuticals,Netherlands,843,$22.93 Billion,$1.22 B,-$0.31 B,-177.55%,$4.54 B,$0.44 B,$20 M,$4.09 B,-91.3,18.4
-Shinpoong Pharm,https://companiesmarketcap.com/shinpoong-pharm,Pharmaceuticals,S. Korea,815,$0.48 Billion,$0.15 B,-$40.77 M,-17.25%,$0.28 B,$56.23 M,$34.37 M,$0.22 B,-15.7,3.20
+Shinpoong Pharm,https://companiesmarketcap.com/shinpoong-pharm,Pharmaceuticals,South Korea,815,$0.48 Billion,$0.15 B,-$40.77 M,-17.25%,$0.28 B,$56.23 M,$34.37 M,$0.22 B,-15.7,3.20
 Ascendis Pharma,https://companiesmarketcap.com/ascendis-pharma,Pharmaceuticals,Denmark,797,$8.55 Billion,$0.29 B,-$0.46 B,-609.82%,$0.91 B,$1.07 B,$0.71 B,-$0.17 B,-13.2,29.4
 Ionis Pharmaceuticals,https://companiesmarketcap.com/ionis-pharmaceuticals,Pharmaceuticals,USA,796,$6.08 Billion,$0.78 B,-$0.26 B,-43.95%,$2.99 B,$2.60 B,$1.45 B,$0.38 B,-14.8,7.86
 Adaptive Biotechnologies,https://companiesmarketcap.com/adaptive-biotechnologies,Pharmaceuticals,USA,790,$0.43 Billion,$0.17 B,-$0.22 B,-101.94%,$0.66 B,$0.35 B,$98.77 M,$0.30 B,-1.97,2.23
@@ -1099,7 +1099,7 @@ Dorian LPG,https://companiesmarketcap.com/dorian-lpg,Oil&Gas,USA,541,$1.59 Billi
 SM Energy,https://companiesmarketcap.com/sm-energy,Oil&Gas,USA,539,$5.83 Billion,$2.36 B,$1.00 B,41.71%,$6.37 B,$2.76 B,$1.57 B,$3.61 B,5.80,2.52
 3R Petroleum,https://companiesmarketcap.com/3r-petroleum,Oil&Gas,Brazil,531,$1.64 Billion,$1.13 B,$0.26 B,11.88%,$4.14 B,$3.00 B,$1.92 B,$1.14 B,16.7,1.51
 Chord Energy,https://companiesmarketcap.com/chord-energy,Oil&Gas,USA,531,$7.79 Billion,$3.89 B,$1.36 B,49.21%,$6.92 B,$1.84 B,$0.53 B,$5.07 B,7.10,2.00
-Abdullah Al-Othaim Markets Company,https://companiesmarketcap.com/abdullah-al-othaim-markets-company,Retail,S. Arabia,18000,$3.00 Billion,$2.69 B,$0.14 B,,$1.55 B,$1.22 B,$0.52 B,$0.33 B,10.7,1.11
+Abdullah Al-Othaim Markets Company,https://companiesmarketcap.com/abdullah-al-othaim-markets-company,Retail,Saudi Arabia,18000,$3.00 Billion,$2.69 B,$0.14 B,,$1.55 B,$1.22 B,$0.52 B,$0.33 B,10.7,1.11
 Kesko,https://companiesmarketcap.com/kesko,Retail,Finland,17702,$7.15 Billion,$12.78 B,$0.77 B,6.57%,$8.57 B,$5.52 B,$3.08 B,$3.04 B,13.2,0.5701
 SpartanNash,https://companiesmarketcap.com/spartannash,Retail,USA,17500,$0.64 Billion,$9.72 B,$0.11 B,0.72%,$2.35 B,$1.57 B,$0.86 B,$0.77 B,15.9,0.0670
 Pan Pacific International Holdings,https://companiesmarketcap.com/pan-pacific,Retail,Japan,17107,$15.50 Billion,$14.13 B,$0.82 B,5.43%,$10.63 B,$6.99 B,$3.71 B,$3.63 B,30.9,1.08
@@ -1140,11 +1140,11 @@ GameStop,https://companiesmarketcap.com/gamestop,Retail,USA,11000,$3.29 Billion,
 PriceSmart,https://companiesmarketcap.com/pricesmart,Retail,USA,11000,$2.43 Billion,$4.52 B,$0.18 B,3.84%,$2.02 B,$0.94 B,$0.27 B,$1.08 B,21.2,0.5402
 Sonic Automotive,https://companiesmarketcap.com/sonic-automotive,Retail,USA,10300,$1.70 Billion,$14.37 B,$0.41 B,3.69%,$5.36 B,$4.47 B,$3.86 B,$0.89 B,-39.6,0.1194
 Aaron's,https://companiesmarketcap.com/aarons,Retail,USA,10060,$0.21 Billion,$2.13 B,$14.45 M,-0.88%,$1.82 B,$1.14 B,$0.69 B,$0.68 B,23.0,0.1022
-Aldrees Petroleum and Transport Services,https://companiesmarketcap.com/aldrees-petroleum-and-transport-services,Retail,S. Arabia,9199,$3.38 Billion,$3.95 B,$0.11 B,,$2.00 B,$1.67 B,$1.11 B,$0.32 B,47.0,0.8542
+Aldrees Petroleum and Transport Services,https://companiesmarketcap.com/aldrees-petroleum-and-transport-services,Retail,Saudi Arabia,9199,$3.38 Billion,$3.95 B,$0.11 B,,$2.00 B,$1.67 B,$1.11 B,$0.32 B,47.0,0.8542
 Reece Group,https://companiesmarketcap.com/reece,Retail,Australia,9000,$11.53 Billion,$5.85 B,$0.37 B,6.66%,$4.58 B,$2.18 B,$1.29 B,$2.39 B,34.2,1.35
 Bath & Body Works,https://companiesmarketcap.com/bath-body-works,Retail,USA,8800,$10.16 Billion,$7.42 B,$1.02 B,12.84%,$5.24 B,$7.36 B,$5.70 B,-$2.13 B,15.0,1.40
 L'Occitane International,https://companiesmarketcap.com/l-occitane-international,Retail,Luxembourg,8701,$5.49 Billion,$2.32 B,$0.19 B,16.61%,$3.10 B,$2.09 B,$0.83 B,$1.00 B,16.2,1.59
-Cenomi Retail (Fawaz Abdulaziz Al Hokair & Company),https://companiesmarketcap.com/cenomi-retail,Retail,S. Arabia,8416,$0.37 Billion,$1.49 B,$88.13 M,,$1.83 B,$1.77 B,$1.40 B,$58.95 M,,
+Cenomi Retail (Fawaz Abdulaziz Al Hokair & Company),https://companiesmarketcap.com/cenomi-retail,Retail,Saudi Arabia,8416,$0.37 Billion,$1.49 B,$88.13 M,,$1.83 B,$1.77 B,$1.40 B,$58.95 M,,
 Aritzia,https://companiesmarketcap.com/aritzia,Retail,Canada,8300,$2.73 Billion,$1.68 B,$96.89 M,10.53%,$1.43 B,$0.86 B,$0.58 B,$0.56 B,31.1,1.64
 THG (The Hut Group),https://companiesmarketcap.com/the-hut-group,Retail,UK,8239,$1.01 Billion,$2.71 B,-$0.6 B,,$3.55 B,$2.09 B,$1.25 B,$1.46 B,-16.1,0.2687
 American Eagle Outfitters,https://companiesmarketcap.com/american-eagle-outfitters,Retail,USA,8000,$4.65 Billion,$5.26 B,$0.34 B,3.57%,$3.55 B,$1.82 B,$1.18 B,$1.73 B,22.1,0.8843
@@ -1196,7 +1196,7 @@ Barnes & Noble Education,https://companiesmarketcap.com/barnes-noble-education,R
 Dada Nexus,https://companiesmarketcap.com/dada-nexus,Retail,China,2631,$0.50 Billion,$1.55 B,-$0.15 B,-21.57%,$1.21 B,$0.26 B,$2.77 M,$0.95 B,-2.80,0.3479
 Hagar hf.,https://companiesmarketcap.com/hagar-hf,Retail,Iceland,2613,$0.62 Billion,$1.24 B,$41.89 M,,$0.55 B,$0.36 B,$0.20 B,$0.19 B,16.6,0.4991
 Zumiez,https://companiesmarketcap.com/zumiez,Retail,USA,2600,$0.29 Billion,$0.87 B,-$64.79 M,13.55%,$0.66 B,$0.31 B,$0.22 B,$0.35 B,-33.8,0.3369
-Shinsegae,https://companiesmarketcap.com/shinsegae,Retail,S. Korea,2548,$1.11 Billion,$4.83 B,$0.34 B,6.67%,$11.40 B,$6.50 B,$3.71 B,$4.90 B,3.83,0.2325
+Shinsegae,https://companiesmarketcap.com/shinsegae,Retail,South Korea,2548,$1.11 Billion,$4.83 B,$0.34 B,6.67%,$11.40 B,$6.50 B,$3.71 B,$4.90 B,3.83,0.2325
 Lands' End,https://companiesmarketcap.com/lands-end,Retail,USA,2500,$0.40 Billion,$1.47 B,-$0.14 B,-0.94%,$0.94 B,$0.69 B,$0.37 B,$0.25 B,-23.9,0.2761
 Shoe Carnival,https://companiesmarketcap.com/shoe-carnival,Retail,USA,2500,$0.88 Billion,$1.17 B,$96.42 M,15.57%,$1.02 B,$0.45 B,$0.36 B,$0.56 B,10.2,0.7811
 ASR Nederland,https://companiesmarketcap.com/asr-nederland,Insurance,Netherlands,5063,$10.13 Billion,$8.76 B,$1.37 B,17.82%,$70.74 B,$63.89 B,$4.67 B,$6.84 B,1.51,1.27
@@ -1296,7 +1296,7 @@ Warrantee Inc.,https://companiesmarketcap.com/warrantee-inc,Insurance,Japan,1,$7
 AIA,https://companiesmarketcap.com/aia,Insurance,Hong Kong,0,$69.68 Billion,$20.69 B,$4.56 B,,$286.31 B,$244.72 B,$12.16 B,$41.59 B,16.4,4.78
 Bâloise,https://companiesmarketcap.com/baloise,Insurance,Switzerland,0,$6.92 Billion,$8.06 B,$0.77 B,9.63%,$87.15 B,$83.50 B,$5.28 B,$3.64 B,11.9,0.8646
 Insurance Australia Group,https://companiesmarketcap.com/insurance-australia-group,Insurance,Australia,0,$10.00 Billion,$6.76 B,$0.89 B,6.35%,$23.18 B,$18.52 B,$1.74 B,$4.66 B,31.4,1.36
-Samsung Life Insurance,https://companiesmarketcap.com/samsung-life-insurance,Insurance,S. Korea,0,$11.05 Billion,$18.24 B,$3.11 B,10.65%,$219.74 B,$186.71 B,$14.59 B,$33.03 B,6.74,0.6120
+Samsung Life Insurance,https://companiesmarketcap.com/samsung-life-insurance,Insurance,South Korea,0,$11.05 Billion,$18.24 B,$3.11 B,10.65%,$219.74 B,$186.71 B,$14.59 B,$33.03 B,6.74,0.6120
 Donegal Group,https://companiesmarketcap.com/donegal-group,Insurance,USA,0,$0.44 Billion,$0.92 B,$5.68 M,-1.49%,$2.26 B,$1.78 B,$35 M,$0.47 B,43.2,0.4792
 iA Financial,https://companiesmarketcap.com/ia-financial,Insurance,Canada,0,$5.98 Billion,$5.42 B,$0.76 B,9.95%,$70.88 B,$65.56 B,$1.41 B,$5.31 B,9.38,1.11
 Shake Shack,https://companiesmarketcap.com/shake-shack,Food,USA,11704,$4.11 Billion,$1.08 B,$18.69 M,0.03%,$1.60 B,$1.13 B,$0.77 B,$0.46 B,> 1000,3.87
@@ -1331,7 +1331,7 @@ Leroy Seafood,https://companiesmarketcap.com/leroy-seafood,Food,Norway,6000,$2.5
 Potbelly Corporation,https://companiesmarketcap.com/potbelly,Food,USA,6000,$0.31 Billion,$0.49 B,$9.76 M,2.82%,$0.25 B,$0.23 B,$0.18 B,$14.09 M,62.9,0.6440
 Sweetgreen,https://companiesmarketcap.com/sweetgreen,Food,USA,5952,$2.56 Billion,$0.58 B,-$0.12 B,-34.24%,$0.85 B,$0.37 B,$0.30 B,$0.48 B,-16.6,4.53
 J.M. Smucker Company,https://companiesmarketcap.com/jm-smucker,Food,USA,5800,$11.63 Billion,$8.20 B,$0.20 B,10.54%,$20.24 B,$12.68 B,$8.73 B,$7.56 B,-747,1.45
-Herfy Food Services Company,https://companiesmarketcap.com/herfy-food-services-company,Food,S. Arabia,5718,$0.57 Billion,$0.31 B,$3.01 M,,$0.50 B,$0.23 B,$0.15 B,$0.27 B,95.1,1.83
+Herfy Food Services Company,https://companiesmarketcap.com/herfy-food-services-company,Food,Saudi Arabia,5718,$0.57 Billion,$0.31 B,$3.01 M,,$0.50 B,$0.23 B,$0.15 B,$0.27 B,95.1,1.83
 Fairwood Holdings,https://companiesmarketcap.com/fairwood-holdings,Food,Hong Kong,5600,$0.13 Billion,$0.38 B,$10.61 M,2.76%,$0.29 B,$0.21 B,$0.14 B,$84.06 M,33.8,0.5046
 Hatsun Agro Products,https://companiesmarketcap.com/hatsun-agro-products,Food,India,5541,$2.66 Billion,$0.93 B,$38.69 M,3.56%,$0.47 B,$0.29 B,$0.23 B,$0.17 B,96.0,2.86
 Ebro Foods,https://companiesmarketcap.com/ebro-foods,Food,Spain,5088,$2.50 Billion,$3.17 B,$0.20 B,6.50%,$4.28 B,$1.89 B,$0.83 B,$2.38 B,17.3,0.7581
@@ -1357,7 +1357,7 @@ Dingdong Maicai,https://companiesmarketcap.com/dingdong-maicai,Food,China,3363,$
 Mission Produce,https://companiesmarketcap.com/mission-produce,Food,USA,3300,$0.81 Billion,$0.99 B,$15.5 M,-2.64%,$0.93 B,$0.40 B,$0.25 B,$0.53 B,-16.6,0.8133
 Kura Sushi USA,https://companiesmarketcap.com/kura-sushi,Food,USA,3219,$1.24 Billion,$0.21 B,$1.91 M,-0.34%,$0.30 B,$0.14 B,$0.12 B,$0.16 B,> 1000,5.93
 Calavo Growers,https://companiesmarketcap.com/calavo-growers,Food,USA,3064,$0.43 Billion,$0.87 B,$3.78 M,-0.02%,$0.39 B,$0.19 B,$71.06 M,$0.20 B,-112,0.5042
-Ottogi,https://companiesmarketcap.com/ottogi,Food,S. Korea,3018,$0.98 Billion,$2.62 B,$0.16 B,8.90%,$2.70 B,$1.10 B,$0.69 B,$1.59 B,4.73,0.3815
+Ottogi,https://companiesmarketcap.com/ottogi,Food,South Korea,3018,$0.98 Billion,$2.62 B,$0.16 B,8.90%,$2.70 B,$1.10 B,$0.69 B,$1.59 B,4.73,0.3815
 Lotus Bakeries,https://companiesmarketcap.com/lotus-bakeries,Food,Belgium,2984,$7.62 Billion,$0.93 B,$0.14 B,15.27%,$1.28 B,$0.64 B,$0.34 B,$0.64 B,46.3,5.81
 B&G Foods,https://companiesmarketcap.com/bg-foods,Food,USA,2883,$0.84 Billion,$2.06 B,$84.2 M,5.17%,$3.46 B,$2.62 B,$2.11 B,$0.83 B,-37.8,0.4175
 Hain Celestial,https://companiesmarketcap.com/hain-celestial,Food,USA,2837,$0.54 Billion,$1.78 B,-$0.14 B,5.47%,$2.23 B,$1.23 B,$0.89 B,$0.99 B,-4.78,0.3130
@@ -1380,7 +1380,7 @@ Missfresh,https://companiesmarketcap.com/missfresh,Food,China,1925,$8.14 Million
 Village Farms International,https://companiesmarketcap.com/village-farms,Food,Canada,1800,$0.14 Billion,$0.28 B,-$27.37 M,-32.04%,$0.46 B,$0.14 B,$65.5 M,$0.31 B,-1.92,0.5250
 Bakkafrost,https://companiesmarketcap.com/bakkafrost,Food,Denmark,1778,$3.58 Billion,$1.03 B,$0.16 B,,$2.44 B,$0.95 B,$0.54 B,$1.48 B,60.4,3.56
 PAR Technology,https://companiesmarketcap.com/par-technology,Food,USA,1719,$1.23 Billion,$0.41 B,-$67.77 M,-19.13%,$0.80 B,$0.46 B,$0.38 B,$0.33 B,-17.1,2.98
-Samyang Foods,https://companiesmarketcap.com/samyang-foods,Food,S. Korea,1651,$1.29 Billion,$0.90 B,$0.12 B,11.74%,$0.78 B,$0.38 B,$0.23 B,$0.40 B,19.0,1.40
+Samyang Foods,https://companiesmarketcap.com/samyang-foods,Food,South Korea,1651,$1.29 Billion,$0.90 B,$0.12 B,11.74%,$0.78 B,$0.38 B,$0.23 B,$0.40 B,19.0,1.40
 Oatly,https://companiesmarketcap.com/oatly,Food,Sweden,1644,$0.61 Billion,$0.78 B,-$0.36 B,-50.14%,$1.30 B,$0.71 B,$0.50 B,$0.59 B,-1.52,0.7748
 Parag Milk Foods,https://companiesmarketcap.com/parag-milk-foods,Food,India,1572,$0.30 Billion,$0.37 B,$18.89 M,3.67%,$0.20 B,$0.10 B,$75.34 M,$0.10 B,36.7,0.8145
 Kobe Bussan,https://companiesmarketcap.com/kobe-bussan,Food,Japan,1565,$5.15 Billion,$3.30 B,$0.25 B,6.47%,$1.38 B,$0.59 B,$0.25 B,$0.78 B,37.3,1.56
@@ -1422,7 +1422,7 @@ Pacific Gas and Electric,https://companiesmarketcap.com/pacific-gas-and-electric
 Tauron Polska,https://companiesmarketcap.com/tauron-polska,Electricity,Poland,25605,$1.27 Billion,$11.38 B,$0.78 B,1.90%,$11.18 B,$6.92 B,$3.66 B,$4.26 B,4.88,0.1188
 Tohoku Electric Power,https://companiesmarketcap.com/tohoku-electric-power,Electricity,Japan,24528,$4.13 Billion,$20.72 B,$2.09 B,-1.85%,$37.63 B,$31.74 B,$21.67 B,$5.89 B,-32.4,0.1995
 Tata Power,https://companiesmarketcap.com/tata-power,Electricity,India,23025,$16.71 Billion,$6.89 B,$0.64 B,10.51%,$15.90 B,$11.59 B,$6.32 B,$4.31 B,38.8,2.40
-Korea Electric Power,https://companiesmarketcap.com/korea-electric-power,Electricity,S. Korea,22481,$10.02 Billion,$64.48 B,-$11.96 B,-47.49%,$177.70 B,$150.94 B,$16.95 B,$26.76 B,-0.6433,0.1551
+Korea Electric Power,https://companiesmarketcap.com/korea-electric-power,Electricity,South Korea,22481,$10.02 Billion,$64.48 B,-$11.96 B,-47.49%,$177.70 B,$150.94 B,$16.95 B,$26.76 B,-0.6433,0.1551
 China Resources Power Holdings,https://companiesmarketcap.com/china-resources-power-holdings,Electricity,Hong Kong,22340,$12.01 Billion,$13.24 B,$1.21 B,,$39.61 B,$26.69 B,$20.34 B,$12.92 B,,0.7436
 Equinor,https://companiesmarketcap.com/equinor,Electricity,Norway,21936,$82.59 Billion,$106.84 B,$37.88 B,52.75%,$143.58 B,$95.08 B,$31.79 B,$48.50 B,5.08,0.7735
 RWE,https://companiesmarketcap.com/rwe,Electricity,Germany,19884,$25.71 Billion,$31.03 B,$4.29 B,1.76%,$117.73 B,$81.09 B,$12.98 B,$36.63 B,8.78,0.8060
@@ -1448,7 +1448,7 @@ Xcel Energy,https://companiesmarketcap.com/xcel-energy,Electricity,USA,11982,$29
 NLC India,https://companiesmarketcap.com/nlc-india,Electricity,India,11246,$3.90 Billion,$1.80 B,$0.32 B,14.53%,$6.38 B,$4.08 B,$2.62 B,$2.29 B,17.0,2.22
 China Power International Development,https://companiesmarketcap.com/china-power-international-development,Electricity,Hong Kong,10829,$5.13 Billion,$6.33 B,$0.48 B,,$30.65 B,$20.37 B,$16.80 B,$10.27 B,,0.8268
 BKW AG,https://companiesmarketcap.com/bkw-ag,Electricity,Switzerland,10795,$8.12 Billion,$5.27 B,$0.70 B,15.47%,$13.09 B,$7.09 B,$2.53 B,$6.00 B,12.3,1.78
-LG Energy Solution,https://companiesmarketcap.com/lg-energy-solution,Electricity,S. Korea,10550,$64.38 Billion,$26.23 B,$1.82 B,7.08%,$18.20 B,$5.36 B,$2.95 B,$12.83 B,61.9,2.48
+LG Energy Solution,https://companiesmarketcap.com/lg-energy-solution,Electricity,South Korea,10550,$64.38 Billion,$26.23 B,$1.82 B,7.08%,$18.20 B,$5.36 B,$2.95 B,$12.83 B,61.9,2.48
 ACEA,https://companiesmarketcap.com/acea,Electricity,Italy,10482,$3.54 Billion,$4.88 B,$0.68 B,11.11%,$12.49 B,$9.56 B,$6.10 B,$2.93 B,14.2,0.7305
 DTE Energy,https://companiesmarketcap.com/dte-energy,Electricity,USA,10102,$21.98 Billion,$12.74 B,$1.56 B,8.75%,$44.75 B,$33.70 B,$20.97 B,$11.05 B,17.5,1.72
 Eversource Energy,https://companiesmarketcap.com/eversource-energy,Electricity,USA,10000,$20.61 Billion,$11.91 B,$0.58 B,15.18%,$55.61 B,$41.28 B,$26.75 B,$14.32 B,17.5,1.74
