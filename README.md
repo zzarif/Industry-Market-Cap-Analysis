@@ -26,15 +26,25 @@ source venv/Scripts/activate
 ```bash
 pip install -r requirements.txt
 ```
-*Note: Select virtual environment interpreter from* ```Ctrl```+```Shift```+```P```
+*Note: Select virtual environment interpreter from* `Ctrl`+`Shift`+`P`
 ## Run the Selenium Scraper
+### Traditional Method
 ```bash
 python companies/main.py
 ```
-At this stage, you will get a file named [companies_data.csv](companies/companies_data.csv) (this file requires data transformation and cleaning)
+At this stage, you will get a file named [companies_data.csv](companies/companies_data.csv) (this file requires data transformation in the next step)
+
+### Scraping Parallelly
+Using traditional method, scraping financial data for 1500 companies one-by-one might take a significant amount of time (several hours) depending on your network bandwidth. A better and faster approach would be to split the task into multiple scraper instances that will scrape data parallely. Each scraper will be assigned to scrape financial data of the companies belonging to a particular industry.
+
+To do this, you can simply create 8 copies of the `main.py` file (for 8 industries) and modify each `main.py` to fetch companies only for a particular industry. Now, run all the copies parallelly and merge the output CSV files.
+
+Alternatively, you can use Python's `multiprocessing` module to spawn multiple processes to accomplish the same task.
+
+Be sure to rename the final merged CSV file as [companies_data.csv](companies/companies_data.csv) (this file requires data transformation in the next step)
 
 ## Transform and Clean the data
 ```bash
 python companies/transform_data.py
 ```
-At this stage, you will get a file named [transformed_companies_data.csv](companies/transformed_companies_data.csv) (load this file into Tableau)
+At this stage, you will get a file named [transformed_companies_data.csv](companies/transformed_companies_data.csv) (you can load this file into Tableau as Text file)
