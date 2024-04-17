@@ -31,10 +31,10 @@ pip install -r requirements.txt
 ```bash
 python companies/main.py
 ```
-At this stage, you will get a file named [companies_data.csv](https://github.com/zzarif/Tableau-Industry-Insights-Dashboard/blob/main/companies/companies_data.csv) (this file requires data transformation and cleaning)
+At this stage, you will get a file named [companies_data.csv](companies/companies_data.csv) (this file requires data transformation and cleaning)
 
 ## Transform and Clean the data
 ```bash
 python companies/transform_data.py
 ```
-At this stage, you will get a file named [transformed_companies_data.csv](https://github.com/zzarif/Tableau-Industry-Insights-Dashboard/blob/main/companies/transformed_companies_data.csv) (load this file into Tableau)
+At this stage, you will get a file named [transformed_companies_data.csv](companies/transformed_companies_data.csv) (load this file into Tableau)
