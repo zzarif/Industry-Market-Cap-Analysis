@@ -3,10 +3,17 @@
 ## Problem Statement
 A comprehensive financial analysis [dashboard](google.com) comparing the financial performance and key metrics of **1500** companies across **8** different industries. Utilizing the financial information from [companiesmarketcap.com](https://companiesmarketcap.com/) the dashboard offers a wide range of visualizations and metrics, including:
 
-1. point 1
-2. point 2
+1. Bar charts comparing the average market cap, revenue, and earnings of companies in each industry.
+2. Employee productivity scatter plots presenting Revenue-per-Employee and Earnings-per-Employee color coded by industry.
+3. Geographic distribution of market capital and companies.
+4. Comparative Price-to-Sales and Price-to-Earning Ratio identifying growth-oriented industries.
+5. Box plots revealing the typical range and variability of operating margins of companies in each industry.
+6. Debt-to-Equity and Current Ratio heatmaps showing financial health of companies.
 
-You can visit the public dashboard [here](google.com)
+Here are the links to Tableau public dashboards:
+- [Industry Comparison Dashboard](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/INDUSTRYCOMPARISON)
+- [Geographical Distribution and Operating Margin Dashboard](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/GEOGRAPHICALDIST_ANDOPERATINGMARGIN)
+- [Financial Health Heatmaps Dashboard](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/GEOGRAPHICALDIST_ANDOPERATINGMARGIN)
 
 ## Findings and Observations from the Dashboards
 
