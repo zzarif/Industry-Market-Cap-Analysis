@@ -8,16 +8,16 @@ A comprehensive financial analysis [dashboard](google.com) comparing the financi
 
 You can visit the public dashboard [here](google.com)
 
-## Findings and Observations from the [Dashboard](google.com)
+## Findings and Observations from the Dashboards
 
-### Industry Comparison Dashboard
+### [Dashboard 1:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/INDUSTRYCOMPARISON) Industry Comparison
 ![alt text](dashboard/images/industry_comparison_dashboard.png)
 1. **Tehnology** has the highest average market value in general and **Real Estate** is the lowest. However, **Oil & Gas** is the leading industry in terms of total country-wise average market cap. **Saudi Arabia** is the largest contributor.
 2. **Oil & Gas** industry dominates the market in terms of Average Revenue and Earnings. **Real Estate** is the lowest.
 3. In terms of Revenue per employee, **Saudi Aramco** (Oil & Gas) is the highest whereas **Phoenix Group** (Insurance) is the lowest. 
 4. In terms of Earnings per employee, again **Saudi Aramco** (Oil & Gas) is the highest whereas **Walgreens Boots Alliance** (Pharmaceuticals) is the lowest. On average, **Oil & Gas** is the most employee productive industry.
 
-### Geographical Distribution and Operating Margin Dashboard
+### [Dashboard 2:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/GEOGRAPHICALDIST_ANDOPERATINGMARGIN) Geographical Distribution and Operating Margin
 ![alt text](dashboard/images/geographical_dist_and_operating_margin_dashboard.png)
 1. **Saudi Arabia** has the largest share of market capital ($248.3T), followed by **USA** ($56.4T), and **Denmark** ($51.6T)
 2. From the 1500 total companies, 591 belong to **USA** alone, followed by **India** (96), **China** (67), and **Hong Kong** (48)
