@@ -1,7 +1,7 @@
 # Tableau Industry Insights Dashboard
 
 ## Problem Statement
-A comprehensive financial analysis [dashboard](google.com) comparing the financial performance and key metrics of **1500** companies across **8** different industries. Utilizing the financial information from [companiesmarketcap.com](https://companiesmarketcap.com/) the dashboard offers a wide range of visualizations and metrics, including:
+Comprehensive financial analysis dashboards comparing the financial performance and key metrics of **1500** companies across **8** different industries. Utilizing the financial information from [companiesmarketcap.com](https://companiesmarketcap.com/) the dashboard offers a wide range of visualizations and metrics, including:
 
 1. Bar charts comparing the average market cap, revenue, and earnings of companies in each industry.
 2. Employee productivity scatter plots presenting Revenue-per-Employee and Earnings-per-Employee color coded by industry.
