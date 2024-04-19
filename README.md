@@ -13,7 +13,7 @@ Comprehensive financial analysis dashboards comparing the financial performance 
 Here are the links to Tableau public dashboards:
 - [Industry Comparison Dashboard](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/INDUSTRYCOMPARISON)
 - [Geographical Distribution and Operating Margin Dashboard](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/GEOGRAPHICALDIST_ANDOPERATINGMARGIN)
-- [Financial Health Heatmaps Dashboard](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/GEOGRAPHICALDIST_ANDOPERATINGMARGIN)
+- [Financial Health Heatmaps Dashboard](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/FinancialHealthDashboard)
 
 ## Findings and Observations from the Dashboards
 
@@ -33,6 +33,8 @@ Here are the links to Tableau public dashboards:
 5. Insurance, Oil & Gas, and Real Estate have their entire boxes above the zero line, meaning **over 75%** of companies have positive margins. In contrast, **Pharmaceuticals** and **Food** have a large portion of their boxes below zero, indicating a significant number of unprofitable companies.
 6. **Technology** companies tend to have both high P/S and high P/E ratios compared to other industries. It is a growth-oriented sector.
 7. **Retail** and **Food** industries generally have lower P/S and P/E ratios. These are slower-growth sectors.
+
+### [Dashboard 3:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/FinancialHealthDashboard) Financial Health Heatmaps Dashboard
 
 ## Build from Source
 1. Clone the repo
