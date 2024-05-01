@@ -18,7 +18,7 @@ Here are the links to Tableau public dashboards:
 ## Findings and Observations from the [Dashboards](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/IndustryComparisonDashboard)
 
 ### [Dashboard 1:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/IndustryComparisonDashboard) Industry Comparison
-![alt text](dashboard/images/industry_comparison_dashboard.png)
+![industry_comparison_dashboard](dashboard/images/industry_comparison_dashboard.png)
 Findings:
 1. **Tehnology** has the highest average market value in general and **Real Estate** is the lowest. However, **Oil & Gas** is the leading industry in terms of total country-wise average market cap. **Saudi Arabia** is the largest contributor.
 2. **Oil & Gas** industry dominates the market in terms of Average Revenue and Earnings. **Real Estate** is the lowest.
@@ -26,7 +26,7 @@ Findings:
 4. In terms of Earnings per employee, again **Saudi Aramco** (Oil & Gas) is the highest whereas **Walgreens Boots Alliance** (Pharmaceuticals) is the lowest. On average, **Oil & Gas** is the most employee productive industry.
 
 ### [Dashboard 2:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/GeographicDistributionandOperatingMarginDashboard) Geographical Distribution and Operating Margin
-![alt text](dashboard/images/geographical_dist_and_operating_margin_dashboard.png)
+![geographical_dist_and_operating_margin_dashboard](dashboard/images/geographical_dist_and_operating_margin_dashboard.png)
 Findings:
 1. **Saudi Arabia** has the largest share of market capital ($248.3T), followed by **USA** ($56.4T), and **Denmark** ($51.6T)
 2. From the 1500 total companies, 591 belong to **USA** alone, followed by **India** (96), **China** (67), and **Hong Kong** (48)
@@ -37,6 +37,7 @@ Findings:
 7. **Retail** and **Food** industries generally have lower P/S and P/E ratios. These are slower-growth sectors.
 
 ### [Dashboard 3:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/FinancialHealthDashboard) Financial Health Heatmaps Dashboard
+![financial_health_dashboard](dashboard/images/financial_health_dashboard.png)
 Findings:
 1. **Real Estate** companies from the **UK** have the most average Debt. Same goes for **Pharmaceuticals** (Canada), **Retail** (Saudi Arabia), and **Insurance** (Japan).
 2. **Food** companies in **Malaysia** have significantly more total assets relative to its total liabilities. Same goes for **Oil & Gas** (Russia), and **Retail** (Greece).
