@@ -22,11 +22,11 @@ def transform_value(value):
         return None
 
 # Read the CSV file
-df = pd.read_csv("companies/companies_data.csv")
+df = pd.read_csv("company_data/companies_data.csv")
 
 # Apply the transformation to the specified columns
 for metric in metric_endpoints:
     df[metric] = df[metric].apply(transform_value)
 
 # Save the transformed DataFrame back to a CSV file
-df.to_csv("companies/transformed_companies_data.csv", index=False)
+df.to_csv("company_data/transformed_companies_data.csv", index=False)

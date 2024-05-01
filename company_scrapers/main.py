@@ -18,4 +18,4 @@ if __name__ == "__main__":
     companies.extend(fetch_companies("electricity", "electricity", "Electricity"))
     # convert pandas to csv and save
     df = pd.DataFrame(data=companies, columns=columns)
-    df.to_csv("companies/companies_data.csv", index=False)
+    df.to_csv("company_data/companies_data.csv", index=False)
