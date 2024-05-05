@@ -62,7 +62,10 @@ pip install -r requirements.txt
 ```bash
 python scraper/main.py
 ```
-Run this command and wait for it to finish. When complete, you will get a file named [scraped_company_data.csv](data/scraped_company_data.csv) (this file requires data transformation in the next step)
+Run this command and wait for it to finish. When complete, you will get a file named [scraped_company_data.csv](data/scraped_company_data.csv) (this file requires data transformation in the next step).
+
+#### How the scraping is done:
+The `main.py` file calls `fetch_companies` method 8 times for 8 different industries. Each time `fetch_companies` method fetches 200 companies' data for each industry (100 companies for *Electricity* industry) totalling to 1500 companies' data. `fetch_companies` method uses `selenium` webdriver to scrape [companiesmarketcap.com](https://companiesmarketcap.com/) with necessary `chrome_options` added as arguments. At a time, it will iterate over maximum 2 pages to scrape 200 companies' data (each page has 100 companies listed). During each iteration, the outer `for` loop, fetches 100 companies. The inner `for` loops go over each of those companies and fetch that company specific metrics. Finally, the companies and their respective data is returned to `main.py` file where it is appended to the global `companies` list and converted to [scraped_company_data.csv](data/scraped_company_data.csv) file. This file requires data transformation in the next step.
 
 ### Alternative Approach (Scraping Parallelly)
 Using traditional approach, scraping financial data for 1500 companies one-by-one might take a significant amount of time (several hours) depending on your network bandwidth. A better and faster approach would be to split the task into multiple scraper instances that will scrape data parallely. Each scraper will be assigned to scrape financial data of the companies belonging to a particular industry.
