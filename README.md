@@ -1,4 +1,4 @@
-# Tableau Industry Insights Dashboard
+# Industry Market Cap Analysis
 
 ## Problem Statement
 Comprehensive financial analysis [dashboards](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/IndustryComparisonDashboard) comparing the financial performance and key metrics of **1500** companies across **8** different industries. Utilizing the financial information from [companiesmarketcap.com](https://companiesmarketcap.com/) the dashboard offers a wide range of visualizations and metrics, including:
@@ -45,7 +45,7 @@ Findings:
 ## Build from Source
 1. Clone the repo
 ```bash
-git clone https://github.com/zzarif/Tableau-Industry-Insights-Dashboard.git
+git clone https://github.com/zzarif/Industry-Market-Cap-Analysis.git
 ```
 2. Initialize and activate virtual environment
 ```bash
@@ -60,9 +60,9 @@ pip install -r requirements.txt
 ## Run the Selenium Scraper
 ### Traditional Approach
 ```bash
-python company_scrapers/main.py
+python scraper/main.py
 ```
-Run this command and wait for it to finish. When complete, you will get a file named [companies_data.csv](company_data/companies_data.csv) (this file requires data transformation in the next step)
+Run this command and wait for it to finish. When complete, you will get a file named [scraped_company_data.csv](data/scraped_company_data.csv) (this file requires data transformation in the next step)
 
 ### Alternative Approach (Scraping Parallelly)
 Using traditional approach, scraping financial data for 1500 companies one-by-one might take a significant amount of time (several hours) depending on your network bandwidth. A better and faster approach would be to split the task into multiple scraper instances that will scrape data parallely. Each scraper will be assigned to scrape financial data of the companies belonging to a particular industry.
@@ -71,10 +71,13 @@ To do this, you can simply create 8 copies of the `main.py` file (for 8 industri
 
 Alternatively, you can use Python's `multiprocessing` module to spawn multiple processes to accomplish the same task.
 
-Be sure to rename the final merged CSV file as [companies_data.csv](company_data/companies_data.csv) (this file requires data transformation in the next step)
+Be sure to rename the final merged CSV file as [scraped_company_data.csv](data/scraped_company_data.csv) (this file requires data transformation in the next step)
 
 ## Transform and Clean the data
 ```bash
-python company_scrapers/transform_data.py
+python data_transformation/transform_data.py
 ```
-At this stage, you will get a file named [transformed_companies_data.csv](company_data/transformed_companies_data.csv) (you can load this file into Tableau as Text file)
+At this stage, you will get a file named [transformed_company_data.csv](data/transformed_company_data.csv) (you can load this file into Tableau as Text file)
+
+### Contact Me
+Would appreciate your feedback. For any further queries feel free to reach out to me at [zibran.zarif.amio@gmail.com](mailto:zibran.zarif.amio@gmail.com)

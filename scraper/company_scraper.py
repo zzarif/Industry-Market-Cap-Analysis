@@ -9,6 +9,17 @@ import time
 
 # scrape and fetch the companies
 def fetch_companies(industry_seg, industry_subseg, label, page=1, max_page=2):
+    """
+    Parameters:
+        - industry_seg: First segment of URL slug for a particular industry.
+        - industry_subseg: Second segment of URL slug for a particular industry.
+        - label: Label for a particular industry.
+        - page: scraper will start from this page.
+        - max_page: scraper will stop at this page.
+
+    Returns:
+        - fetched_companies: The list of all the companies and their data for a particular industry.
+    """
     start = time.time()
     fetched_companies = [] # list containing all companies
 
