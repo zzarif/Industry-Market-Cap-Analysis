@@ -1,6 +1,47 @@
-# Industry Market Cap Analysis
+<h1 align="center">
+  <br>
+  <!-- <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <br> -->
+  Industry Market Cap Analysis
+  <br>
+</h1>
 
-## Problem Statement
+<h4 align="center">Financial analysis dashboards comparing 1500 companies across 8 industries.</h4>
+
+<p align="center">
+  <!-- <a href="https://badge.fury.io/js/electron-markdownify">
+    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+         alt="Gitter">
+  </a>
+  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a> -->
+  <!-- <a href="">
+      <img src="https://img.shields.io/badge/website-online-blue.svg">
+  </a> -->
+  <a href="https://github.com/zzarif/Industry-Market-Cap-Analysis">
+    <img src="https://img.shields.io/github/last-commit/zzarif/Industry-Market-Cap-Analysis">
+  </a>
+  <a href="https://www.kaggle.com/datasets/zibranzarif/industry-market-cap-analysis-dataset">
+    <img src="https://img.shields.io/badge/dataset-kaggle-blue.svg">
+  </a>
+  <a href="https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/IndustryComparisonDashboard">
+    <img src="https://img.shields.io/badge/tableau-public-red.svg">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-yellow.svg">
+  </a>
+
+</p>
+
+<p align="center">
+  <a href="#-problem-statement">Problem Statement</a> •
+  <a href="#findings-and-observations-from-the-dashboards">Findings from Dashboards</a> •
+  <a href="#%EF%B8%8F-build-from-source">Build from Source</a> •
+  <a href="#-run-the-selenium-scraper">Run the Selenium Scraper</a> •
+  <a href="#-transform-and-clean-the-data">Transform and Clean the data</a> •
+  <a href="#%EF%B8%8F-contact">Contact</a>
+</p>
+
+## 📋 Problem Statement
 Comprehensive financial analysis [dashboards](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/IndustryComparisonDashboard) comparing the financial performance and key metrics of **1500** companies across **8** different industries. Utilizing the financial information from [companiesmarketcap.com](https://companiesmarketcap.com/) the dashboard offers a wide range of visualizations and metrics, including:
 
 1. Bar charts comparing the average market cap, revenue, and earnings of companies in each industry.
@@ -17,7 +58,7 @@ Here are the links to Tableau public dashboards:
 
 ## Findings and Observations from the [Dashboards](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/IndustryComparisonDashboard)
 
-### [Dashboard 1:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/IndustryComparisonDashboard) Industry Comparison
+### 📊 [Dashboard 1:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/IndustryComparisonDashboard) Industry Comparison
 ![industry_comparison_dashboard](dashboard/images/industry_comparison_dashboard.png)
 Findings:
 1. **Tehnology** has the highest average market value in general and **Real Estate** is the lowest. However, **Oil & Gas** is the leading industry in terms of total country-wise average market cap. **Saudi Arabia** is the largest contributor.
@@ -25,7 +66,7 @@ Findings:
 3. In terms of Revenue per employee, **Saudi Aramco** (Oil & Gas) is the highest whereas **Phoenix Group** (Insurance) is the lowest. 
 4. In terms of Earnings per employee, again **Saudi Aramco** (Oil & Gas) is the highest whereas **Walgreens Boots Alliance** (Pharmaceuticals) is the lowest. On average, **Oil & Gas** is the most employee productive industry.
 
-### [Dashboard 2:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/GeographicDistributionandOperatingMarginDashboard) Geographical Distribution and Operating Margin
+### 📊 [Dashboard 2:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/GeographicDistributionandOperatingMarginDashboard) Geographical Distribution and Operating Margin
 ![geographical_dist_and_operating_margin_dashboard](dashboard/images/geographical_dist_and_operating_margin_dashboard.png)
 Findings:
 1. **Saudi Arabia** has the largest share of market capital ($248.3T), followed by **USA** ($56.4T), and **Denmark** ($51.6T)
@@ -36,16 +77,17 @@ Findings:
 6. **Technology** companies tend to have both high P/S and high P/E ratios compared to other industries. It is a growth-oriented sector.
 7. **Retail** and **Food** industries generally have lower P/S and P/E ratios. These are slower-growth sectors.
 
-### [Dashboard 3:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/FinancialHealthDashboard) Financial Health Heatmaps Dashboard
+### 📊 [Dashboard 3:](https://public.tableau.com/app/profile/zibran.zarif/viz/IndustryInsightsDashboard/FinancialHealthDashboard) Financial Health Heatmaps Dashboard
 ![financial_health_dashboard](dashboard/images/financial_health_dashboard.png)
 Findings:
 1. **Real Estate** companies from the **UK** have the most average Debt. Same goes for **Pharmaceuticals** (Canada), **Retail** (Saudi Arabia), and **Insurance** (Japan).
 2. **Food** companies in **Malaysia** have significantly more total assets relative to its total liabilities. Same goes for **Oil & Gas** (Russia), and **Retail** (Greece).
 
-## Build from Source
+## ⚙️ Build from Source
 1. Clone the repo
 ```bash
 git clone https://github.com/zzarif/Industry-Market-Cap-Analysis.git
+cd Industry-Market-Cap-Analysis/
 ```
 2. Initialize and activate virtual environment
 ```bash
@@ -57,7 +99,7 @@ source venv/Scripts/activate
 pip install -r requirements.txt
 ```
 *Note: Select virtual environment interpreter from* `Ctrl`+`Shift`+`P`
-## Run the Selenium Scraper
+## 🌐 Run the Selenium Scraper
 ### Traditional Approach
 ```bash
 python scraper/main.py
@@ -76,11 +118,12 @@ Alternatively, you can use Python's `multiprocessing` module to spawn multiple p
 
 Be sure to rename the final merged CSV file as [scraped_company_data.csv](data/scraped_company_data.csv) (this file requires data transformation in the next step)
 
-## Transform and Clean the data
+## 🔄 Transform and Clean the data
 ```bash
 python data_transformation/transform_data.py
 ```
 At this stage, you will get a file named [transformed_company_data.csv](data/transformed_company_data.csv) (you can load this file into Tableau as Text file)
 
-### Contact Me
-Would appreciate your feedback. For any further queries feel free to reach out to me at [zibran.zarif.amio@gmail.com](mailto:zibran.zarif.amio@gmail.com)
+## ✉️ Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zibran-zarif-amio-b82717263/) [![Mail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff)](mailto:zibran.zarif.amio@gmail.com)
