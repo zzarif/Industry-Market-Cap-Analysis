@@ -127,3 +127,4 @@ At this stage, you will get a file named [transformed_company_data.csv](data/tra
 ## ✉️ Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zibran-zarif-amio/)
+
